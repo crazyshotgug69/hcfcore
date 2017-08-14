@@ -1,0 +1,76 @@
+#SCOREBOARD
+scoreboard-title: "&6HCFactions &7[Map 1]"
+scoreboard-lines: "&7&m------------------"
+sotw: "&aSOTW Timer:&f"
+sotw-paused: "&cSOTW Timer is paused"
+enderpearl: "&aEnderpearl:&f"
+pvp-timer: "&aPvP Timer:&f"
+gapple: "&6Gapple:&f"
+war-outbreak: "&4War Outbreak:&f"
+war-outbreak-paused: "&cWar Outbreak is paused"
+combattag: "&cCombat Tag:&f"
+class: "&CActive Class:&f"
+koth-color: "&9"
+koth-timer-color: "&f"
+f-home: "&3Home:&f"
+vanish: "&3Visibility&7: "
+vanish-boolean-enabled: "&aVanished"
+vanish-boolean-disabled: "&cVisible"
+
+#KITMAP
+kitmap: false
+player-stats: "&aPlayer Stats"
+kills: " &aKills:&f"
+deaths: " &aDeaths:&f"
+
+#TIMERS
+combat-tag-time: 30
+enderpearl-time: 16
+pvptimer-time: 1800
+fhome-countdown: 10
+
+
+
+help:
+ - '&7&m---------------------'
+ - '&6Put your help here'
+ - '&7&m---------------------'
+
+#MESSAGES
+noperm-message: "&cYou do not have permission to do that!"
+pvptimer-msg:
+ - '&aPvP Timer Help'
+ - '&a/pvp enable'
+ - '&a/pvp give <player>'
+nopvptimer: "&cYou do not have a current pvp timer!"
+pvp-enabled: "&aYou have enabled your pvp timer! Go careful..."
+player-already-has-pvp-timer: "&aThat player already has their pvp timer!"
+player-not-online: "&cThat player is not online!"
+given-pvptimer: "&AYou have given that player 30 minutes of pvp timer!"
+received-pvptimer: "&aYou have received 30 minutes of pvp timer!"
+gapple-failed: "&cYou cannot use a gapple as you still have a cooldown!"
+war-outbreak-notactive: "&cWar outbreak is not currently active!"
+war-outbreak-active: "&cWar Outbreak is already active!"
+war-outbreak-already-paused: "&CWar Outbreak is already paused!"
+war-outbreak-not-paused: "&CWar Outbreak is not currently paused!"
+enchant-too-high: "&cThat enchantment is too high!"
+vanish-disabled: "&aYour vanish mode has been disabled"
+vanish-enabled: "&aYour vanish mode has been enabled"
+enchant-limiter:
+  PROTECTION_ENVIRONMENTAL: 3
+  PROTECTION_FIRE: 3
+  SILK_TOUCH: 1
+  DURABILITY: 3
+  PROTECTION_EXPLOSIONS: 3
+  LOOT_BONUS_BLOCKS: 3
+  PROTECTION_PROJECTILE: 3
+  OXYGEN: 3
+  WATER_WORKER: 1
+  THORNS: 0
+  DAMAGE_ALL: 3
+  ARROW_KNOCKBACK: 1
+  KNOCKBACK: 1
+  FIRE_ASPECT: 1
+  LOOT_BONUS_MOBS: 3
+  LUCK: 3
+  LURE: 3

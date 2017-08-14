@@ -1,0 +1,9 @@
+name: HCF
+main: me.banterlol.bantercore.Main
+version: 1.0
+author: banterlol
+commands:
+   sotw:
+   pvp:
+   help:
+   waroutbreak:
